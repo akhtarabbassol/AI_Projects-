@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local Python environment
+myenv/
+
+# Other projects - not part of this repository
+Insurance_Premium_claimed/
+Youtube_Chatbot_using_Rag/

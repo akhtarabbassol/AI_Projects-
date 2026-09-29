@@ -44,6 +44,7 @@ class UserResponse(BaseModel):
     company_id: int | None
     company_name: str | None = None
     department_id: int | None
+    department_name: str | None = None
     email: EmailStr
     full_name: str
     role: str
